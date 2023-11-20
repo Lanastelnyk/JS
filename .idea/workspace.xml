@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="158cf807-13e3-4e76-9b97-09aea72e75da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork1/HW.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork1/HW1-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork1/HW1-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork1/HW1-3.js" afterDir="false" />
-    </list>
+    <list default="true" id="158cf807-13e3-4e76-9b97-09aea72e75da" name="Changes" comment="created JS HW" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,11 +54,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700510122165</updated>
-      <workItem from="1700510123828" duration="2907000" />
+      <workItem from="1700510123828" duration="3244000" />
     </task>
+    <task id="LOCAL-00001" summary="created JS HW">
+      <created>1700513357090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700513357090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created JS HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="created JS HW" />
   </component>
 </project>
