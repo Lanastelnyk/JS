@@ -6,3 +6,6 @@ console.log(typeof x)
 
 let p = true;
 console.log(typeof p)
+
+
+let test = 1;
