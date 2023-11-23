@@ -200,7 +200,7 @@ else {
     // за допомоги  оператора || буде присвоювати змінній х значення "default"  якщо значення змінної х являється falsy (хибноподібні, тобто приводиться до false)
 
 let a = '5';
-if (a === '' || a === 0 || a === -0 || a === null || a === undefined  || a === false || a === NaN  ){
+if (a === '' || a === 0 || a === -0 || a === null || a === undefined  || a === false  ){
     a = 'default';
 }
     console.log(a)
