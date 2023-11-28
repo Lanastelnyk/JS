@@ -199,11 +199,13 @@ else {
 // є змінна х, яка може прийняти будь-яке значення (стрінг, число, undefined, null  і тд включно). Напишіть код який,
     // за допомоги  оператора || буде присвоювати змінній х значення "default"  якщо значення змінної х являється falsy (хибноподібні, тобто приводиться до false)
 
-let a = '5';
-if (a === '' || a === 0 || a === -0 || a === null || a === undefined  || a === false  ){
-    a = 'default';
-}
-    console.log(a)
+// let a = '5';
+// if (a === '' || a === 0 || a === -0 || a === null || a === undefined  || a === false  ){
+//     a = 'default';
+// }
+//     console.log(a)
+
+
 
 
     // - з файлу arrays.js (лежить в папці 2023 plan ) взяти масив coursesAndDurationArray.
@@ -244,4 +246,14 @@ if (coursesAndDurationArray[5]['monthDuration'] > 5){
     console.log(coursesAndDurationArray[5]['title'] + ' good')
 }
 
+let c = 11;
+c = c >=10 ? 'bolshe ili rivne' : 'menshe ';
+console.log(c);
 
+let n = 11
+if( n >= 11 ){
+   n = 'bolshe ili rivne';
+} else {
+    n = 'menshe ';
+}
+console.log(n);
