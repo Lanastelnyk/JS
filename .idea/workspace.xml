@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="158cf807-13e3-4e76-9b97-09aea72e75da" name="Changes" comment="created JS HW2">
-      <change afterPath="$PROJECT_DIR$/HomeWork3/hw3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork3/hw3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork3/img.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWork2/AT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/hw4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/hw5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork2/hw2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork2/hw2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork2/hw2.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork2/hw2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/hw3.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/hw3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -92,7 +91,7 @@
       <workItem from="1700683875221" duration="57000" />
       <workItem from="1700683953860" duration="62000" />
       <workItem from="1700684048181" duration="32095000" />
-      <workItem from="1701113096320" duration="10758000" />
+      <workItem from="1701113096320" duration="61787000" />
     </task>
     <task id="LOCAL-00001" summary="created JS HW">
       <created>1700513357090</created>
